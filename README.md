@@ -41,6 +41,7 @@ I want to express my sincere appreciation to #DataTutorials for guiding me throu
 
 GitHub Link: https://github.com/MohitTan26/Ecommerce-Dashboard
 
+![image](https://github.com/MohitTan26/Ecommerce-Dashboard/assets/149717491/dbf1b068-9f53-4ef1-8aff-51f1fe187bcf)
 
 
 Ready to unlock the full potential of Excel for your E-commerce analytics? Let's connect and revolutionize your data strategy together! #DashboardDevelopment #E-commerce #Excel #DataAnalytics 📈✨
